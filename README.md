@@ -9,6 +9,11 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/amarshallcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amarshallcc/azure-network-protocols)
+ 
+<strong>Thank you for visiting my page!</strong>
+
+
+I am actively seeking an opportunity to join a dynamic and collaborative team. If you believe my skills and experience align with your needs, I would love the opportunity to connect. Please use the link below to schedule a time to chat—I look forward to speaking with you!
 
 <h2>🤳Connect with me:</h2>
 
