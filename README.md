@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adele, an <a href="www.linkedin.com/in/adele-marshall444"> IT Professional</a>☺</h1>
+<h1>Hi, I'm Adele, an <a href="https://www.linkedin.com/in/adele-marshall444" target="_blank">an IT Professional😊 </a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
